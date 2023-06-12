@@ -1,6 +1,6 @@
 package Testpage;
 
-class Testasc
+public class Test
 {
   public static void main(String [] args)
   {
